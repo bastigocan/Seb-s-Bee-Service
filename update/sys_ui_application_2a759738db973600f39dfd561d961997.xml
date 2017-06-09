@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Hive also</name>
+        <order/>
+        <roles>x_libun_seb_s_bee.inspection_also_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>sggocan</sys_created_by>
+        <sys_created_on>2017-06-09 18:54:54</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>2a759738db973600f39dfd561d961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hive also</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Seb's Bee service" source="x_libun_seb_s_bee">0aa4db7cdb573600f39dfd561d961939</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Seb's Bee service">0aa4db7cdb573600f39dfd561d961939</sys_scope>
+        <sys_update_name>sys_ui_application_2a759738db973600f39dfd561d961997</sys_update_name>
+        <sys_updated_by>sggocan</sys_updated_by>
+        <sys_updated_on>2017-06-09 18:54:54</sys_updated_on>
+    </sys_ui_application>
+</record_update>

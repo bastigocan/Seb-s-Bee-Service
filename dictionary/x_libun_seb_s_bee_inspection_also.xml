@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Inspection also" max_length="40" name="x_libun_seb_s_bee_inspection_also" type="collection"/>
+</database>

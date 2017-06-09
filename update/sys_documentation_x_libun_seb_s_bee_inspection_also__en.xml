@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Inspection also" language="en" table="x_libun_seb_s_bee_inspection_also">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Inspection also</label>
+            <language>en</language>
+            <name>x_libun_seb_s_bee_inspection_also</name>
+            <plural>Inspection alsos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sggocan</sys_created_by>
+            <sys_created_on>2017-06-09 18:54:55</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>ba759738db973600f39dfd561d9619f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Inspection also</sys_name>
+            <sys_package display_value="Seb's Bee service" source="x_libun_seb_s_bee">0aa4db7cdb573600f39dfd561d961939</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Seb's Bee service">0aa4db7cdb573600f39dfd561d961939</sys_scope>
+            <sys_update_name>sys_documentation_x_libun_seb_s_bee_inspection_also__en</sys_update_name>
+            <sys_updated_by>sggocan</sys_updated_by>
+            <sys_updated_on>2017-06-09 18:54:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
